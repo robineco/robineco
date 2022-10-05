@@ -1,7 +1,7 @@
 ![hello](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 
 ## 👉 Robin Schlund
-I am a software engineering student, with a passion for DevOps and full-stack apps.
+I am a software engineer, with a passion for DevOps and full-stack apps.
 
 ## 🏗 Technologies & Tools
 
